@@ -24,6 +24,7 @@
                         echo fread($myfile,filesize("/var/www/my-vol/date"));
                         fclose($myfile);
                 ?>
+                <p>Update this PHP application and see CD working.</p>
 
             </div>
         </div>
